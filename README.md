@@ -32,6 +32,10 @@ Exemplos:
 - [Exemplo de retorno no formato stdClass](examples/retorno_obj.php)
 - [Exemplo de retorno no formato Json](examples/retorno_json.php)
 
+## Documentação
+
+[Class Reference](https://netoaoh.github.io/ws-cep/)
+
 ## Bugs e Sugestões
 
 Para bugs e/ou sugestões abra uma Issue.

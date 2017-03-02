@@ -1,6 +1,6 @@
 var NAVTREE =
 [
-  [ "CEP Client", "index.html", [
+  [ "WS CEP", "index.html", [
     [ "Data Structures", "annotated.html", [
       [ "Data Structures", "annotated.html", "annotated_dup" ],
       [ "Data Structure Index", "classes.html", null ],
