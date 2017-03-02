@@ -11,7 +11,7 @@ Biblioteca desenvolvida em PHP para consulta de CEP dos correios através de um 
 1) Adicionar a dependência no composer.json:
 
 ```c++
-$ composer require netoaoh/cep-client
+$ composer require netoaoh/ws-cep
 ```
 
 2) Instalar a biblioteca:
