@@ -1,0 +1,22 @@
+{
+    "name": "netoaoh/ws-cep",
+    "description": "Consulta o webservice dos correios com retorno do endereço",
+    "type": "library",
+    "version": "1.0.0",
+    "license": "MIT",
+    "authors": [{
+        "name": "Paulo Maria Neto",
+        "email": "netoaoh@gmail.com",
+        "role": "Developer"
+    }],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": ">=5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Netoaoh\\CEP\\": "src"
+        }
+    }
+}
