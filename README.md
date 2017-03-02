@@ -1,5 +1,4 @@
-# CEP Client
-### Consulta do serviço de CEP dos correios
+# WS CEP
 
 ---
 
@@ -9,13 +8,13 @@ Biblioteca desenvolvida em PHP para consulta de CEP dos correios através de um 
 
 ## Configuração
 
-1. Adicionar a dependência no composer.json:
+1) Adicionar a dependência no composer.json:
 
 ```c++
 $ composer require netoaoh/cep-client
 ```
 
-1. Instalar a biblioteca:
+2) Instalar a biblioteca:
 
 ```c++
 $ composer install
@@ -30,8 +29,8 @@ $ composer install
 
 Exemplos:
 
-[Exemplo de retorno no formato stdClass](examples/retorno_obj.php)
-[Exemplo de retorno no formato Json](examples/retorno_json.php)
+- [Exemplo de retorno no formato stdClass](examples/retorno_obj.php)
+- [Exemplo de retorno no formato Json](examples/retorno_json.php)
 
 ## Bugs e Sugestões
 
